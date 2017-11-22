@@ -1,0 +1,155 @@
+<h2> ##who##</h2>
+
+<p><strong>When:</strong> ##when##<br />
+
+<strong>Where:</strong> ##where##<br />
+
+<strong>Attendance</strong>:  ##att##</p>
+
+<p>##firstp##</p>
+
+<p>##secondp##</p>
+
+<h2> ##name1## vs. ##name2## Scoring Stats</h2>
+
+<table cellpadding="1" cellspacing="1" width="100%">
+     <tbody><tr>
+
+             <td colspan="2" bgcolor="#BBBBBB"><strong>##name1##</strong></td>
+             <td width="10%">&nbsp;</td>
+             <td colspan="2" bgcolor="#BBBBBB"><strong>##name2##</strong></td>
+         </tr>
+         <tr>
+             <td width="12%"><strong>Scoring </strong></td>
+             <td width="33%">##scoring1##</td>
+             <td>&nbsp;</td>
+             <td width="12%"><strong>Scoring </strong></td>
+             <td width="33%">##scoring2##</td>
+         </tr><tr>
+
+             <td><strong>Assists</strong></td>
+             <td>##assists1##</td>
+             <td>&nbsp;</td>
+             <td><strong>Assists</strong></td>
+             <td>##assists2##</td>
+         </tr><tr>
+
+             <td><strong>Rebounds</strong></td>
+             <td>##rebounds1##</td>
+             <td>&nbsp;</td>
+             <td><strong>Rebounds</strong></td>
+             <td>##rebounds2##</td>
+         </tr>
+     </tbody>
+</table>
+
+<h2> ##titleodds##</h2>
+
+<table width="580" align="center" cellpadding="1" cellspacing="1">
+
+  <tr bgcolor="#BBBBBB">
+
+    <td width="50%"><strong>Final</strong></td>
+
+    <td width="10%" align="center"><strong>1</strong></td>
+
+    <td width="10%" align="center"><strong>2</strong></td>
+
+    <td width="10%" align="center"><strong>3</strong></td>
+
+    <td width="10%" align="center"><strong>4</strong></td>
+
+    <td width="10%" align="center"><strong>T</strong></td>
+
+  </tr>
+
+  <tr>
+    <td><strong>##ps_name1## (##stat1##)</strong></td>
+
+    ##finalstats1##
+
+  </tr>
+
+  <tr>
+
+    <td><strong>##ps_name2## (##stat2##)</strong></td>
+
+    ##finalstats2##
+
+  </tr>
+
+</table>
+<br />
+
+
+<table border="0" align="center" cellpadding="1" cellspacing="1">
+
+  <tr bgcolor="#BBBBBB">
+
+    <td width="40"><strong>Gm#</strong></td>
+
+    <td width="180"><strong>Team</strong></td>
+
+    <td width="75"><div align="center"><strong>Open</strong></div></td>
+
+    <td width="75"><div align="center"><strong>ML</strong></div></td>
+
+    <td width="95"><div align="center"><strong>Spread</strong></div></td>
+
+    <td width="95"><div align="center"><strong>Total</strong></div></td>
+
+  </tr>
+
+  <tr bgcolor="#EFEFEF">
+    <td><strong>##gm1##</strong></td>
+
+    <td><strong>##name1## (##score1##)</strong></td>
+
+    <td><div align="center"><a href="Live-NBA-Basketball-Betting-Odds-and-Scores_P3787.html"></a></div></td>
+
+    <td><div align="center"><a href="http://record.bettingpartners.com/_ydhaNj_zEu1ZjLrgsY4xFWNd7ZgqdRLk/50/"> </a></div></td>
+
+    <td> <div align="center"><a href="http://record.bettingpartners.com/_ydhaNj_zEu1ZjLrgsY4xFWNd7ZgqdRLk/50/"> </a></div></td>
+
+    <td> <div align="center"><a href="http://record.bettingpartners.com/_ydhaNj_zEu1ZjLrgsY4xFWNd7ZgqdRLk/50/"> </a></div>  </td>
+  </tr>
+
+  <tr>
+    <td><strong>##gm2##</strong></td>
+
+    <td><strong>##name2## (##score2##)</strong></td>
+
+    <td><div align="center"><a href="Live-NBA-Basketball-Betting-Odds-and-Scores_P3787.html"> </a></div></td>
+
+    <td><div align="center"><a href="http://record.bettingpartners.com/_ydhaNj_zEu1ZjLrgsY4xFWNd7ZgqdRLk/50/"> </a></div></td>
+
+    <td>    <div align="center"><a href="http://record.bettingpartners.com/_ydhaNj_zEu1ZjLrgsY4xFWNd7ZgqdRLk/50/"> </a></div>  </td>
+
+    <td>    <div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"> </a></div></td>
+</tr>
+
+<tr>
+    <td>&nbsp;</td>
+    <td colspan="5"><em>Live Odds: Sponsored by <a href="http://record.webpartners.co/_-t5YmNkUa5nBkgpoV0de5mNd7ZgqdRLk/50/">Bovada.lv</a></em></td>
+</tr>
+
+</table>
+
+<br />
+
+##IDOBJECT=3201##
+
+##longtext##
+
+<p><strong>Next Matchup:</strong></p>
+
+<p>##lastp##</p>
+
+##picks_sentence##
+
+<h2> ##name1## (##score1##) vs ##name2## (##score2##) Betting Results - <a href="##pushlink##">##pushtext##</a></h2>
+
+<p align="center">
+<script type="text/javascript" src="http://js.bettingpartners.com/javascript.php?prefix=ydhaNj_zEu10NlUPBLg0t2Nd7ZgqdRLk&amp;media=5706&amp;campaign=50"></script>
+</p>
+##IDOBJECT=3389##
