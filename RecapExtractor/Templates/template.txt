@@ -1,0 +1,148 @@
+<h2> ##who##</h2>
+
+<p><strong>When:</strong> ##when##<br />
+
+<strong>Where:</strong> ##where##<br />
+
+<strong>Attendance</strong>:  ##att##</p>
+
+<p>##firstp##</p>
+
+<p>##secondp##</p>
+
+##variante##
+
+<h2> ##title##</h2>
+
+<table width="580" align="center" cellpadding="1" cellspacing="1">
+
+  <tr bgcolor="#BBBBBB">
+
+    <td width="50%"><strong>Final</strong></td>
+
+    <td width="10%" align="center"><strong>1</strong></td>
+
+    <td width="10%" align="center"><strong>2</strong></td>
+
+    <td width="10%" align="center"><strong>3</strong></td>
+
+    <td width="10%" align="center"><strong>4</strong></td>
+
+    <td width="10%" align="center"><strong>T</strong></td>
+
+  </tr>
+
+  <tr>
+    <td><strong>##ps_name1##</strong></td>
+
+    <td align="center"></td>
+
+    <td align="center"></td>
+
+    <td align="center"></td>
+
+    <td align="center"></td>
+
+    <td align="center"><strong></strong></td>
+
+  </tr>
+
+  <tr>
+
+    <td><strong>##ps_name2##</strong></td>
+
+    <td align="center"></td>
+
+    <td align="center"></td>
+
+    <td align="center"></td>
+
+    <td align="center"></td>
+
+    <td align="center"><strong></strong></td>
+
+  </tr>
+
+</table>
+<br />
+
+
+<table border="0" align="center" cellpadding="1" cellspacing="1">
+
+  <tr bgcolor="#BBBBBB">
+
+    <td width="40"><strong>Gm#</strong></td>
+
+    <td width="180"><strong>Team</strong></td>
+
+    <td width="75"><div align="center"><strong>Open</strong></div></td>
+
+    <td width="75"><div align="center"><strong>ML</strong></div></td>
+
+    <td width="95"><div align="center"><strong>Spread</strong></div></td>
+
+    <td width="95"><div align="center"><strong>Total</strong></div></td>
+
+  </tr>
+
+  <tr bgcolor="#EFEFEF">
+    <td><strong>##gm1##</strong></td>
+
+    <td><strong>##name1## (##score1##)</strong></td>
+
+    <td><div align="center"><a href="Live-NFL-Football-Betting-Odds-and-Scores_P3785.html"></a></div></td>
+
+    <td bgcolor="#EFEFEF"><div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"></a></div></td>
+
+    <td><div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"></a></div></td>
+
+    <td><div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"></a></div></td>
+  </tr>
+
+  <tr>
+    <td><strong>##gm2##</strong></td>
+
+    <td><strong>##name2## (##score2##)</strong></td>
+
+    <td><div align="center"><a href="Live-NFL-Football-Betting-Odds-and-Scores_P3785.html"></a></div></td>
+
+    <td><div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"></a></div></td>
+
+    <td><div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"></a></div></td>
+
+    <td><div align="center"><a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/50/"></a></div></td>
+  </tr>
+
+  <tr>
+
+    <td>&nbsp;</td>
+
+    <td colspan="5"><em>Live Odds: Sponsored by <a href="http://record.webpartners.co/_-t5YmNkUa5nBkgpoV0de5mNd7ZgqdRLk/50/">MyBookie.ag</a></em></td>
+
+  </tr>
+
+</table>
+
+
+
+<br />
+
+##IDOBJECT=3174##
+
+<p>##longtext##</p>
+
+<p><strong>Next Matchup:</strong></p>
+
+<p>##lastp##</p>
+
+<h2>Free  Betting Picks: <a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/20/" title="NFL Football Betting Prediction and Pick" rel="nofollow">##pick##</a> at<strong> <a href="http://record.webpartners.co/_-t5YmNkUa5nT2Fu8bIPGIGNd7ZgqdRLk/20/" title="Bovada Sportsbook" rel="nofollow">Bovada Sportsbook</a></strong></h2>
+
+<h2> ##name1## (##score1##) vs ##name2## (##score2##) Betting Results - <a href="##pushlink##">##pushtext##</a></h2>
+
+<p align="center">
+<script type="text/javascript" src="http://js.webpartners.co/javascript.php?prefix=-t5YmNkUa5kWqcfzuvZcQGNd7ZgqdRLk&amp;media=1485&amp;campaign=50"></script>
+</p>
+##IDOBJECT=3351##
+</body>
+</html>
+

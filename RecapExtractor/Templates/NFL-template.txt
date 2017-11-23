@@ -1,0 +1,57 @@
+<h2> ##title##   Quarterback Stats</h2>
+
+<table width="100%" cellpadding="1" cellspacing="1">
+
+  <tr>
+
+    <td colspan="5" bgcolor="#BBBBBB"><strong>##name1##<strong> QB Stats</strong></td>
+
+    <td width="6%">&nbsp;</td>
+
+    <td colspan="5" bgcolor="#BBBBBB"><strong>##name2##<strong> QB Stats</strong></td>
+
+  </tr>
+
+  <tr>
+
+    <td width="15%"><strong>QB Stats </strong></td>
+
+    <td width="8%" align="right"><strong>C/ATT</strong></td>
+
+    <td width="8%" align="right"><strong>YDS</strong></td>
+
+    <td width="8%" align="right"><strong>TD</strong></td>
+
+    <td width="8%" align="right"><strong>INT</strong></td>
+
+    <td>&nbsp;</td>
+
+    <td width="15%"><strong>QB Stats </strong></td>
+
+    <td width="8%" align="right"><strong>C/ATT</strong></td>
+
+    <td width="8%" align="right"><strong>YDS</strong></td>
+
+    <td width="8%" align="right"><strong>TD</strong></td>
+
+    <td width="8%" align="right"><strong>INT</strong></td>
+
+
+  </tr>
+  <tr align="right">
+
+    <td align="left">##passing1##</td>
+
+    ##passing1tds##
+
+    <td>&nbsp;</td>
+
+    <td align="left">T. Brady</td>
+
+    ##passing2tds##
+
+  </tr>
+
+</table>
+
+<br />
